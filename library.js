@@ -5,3 +5,6 @@ function Say(nama) {
 function SayGuest(){
     return "Hello";
 }
+function Sum(a,b){
+    return a+b;
+}
