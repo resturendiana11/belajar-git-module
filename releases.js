@@ -1,0 +1,3 @@
+function isReleases(){
+    return true;
+}
